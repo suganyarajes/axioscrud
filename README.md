@@ -14,7 +14,7 @@ This React application allows for CRUD operations with user data using Axios to 
 - Perform CRUD operations on user data: Add, Edit, Delete.
 - Responsive design for various screen sizes.
 
-Open the application in your browser at `[http://localhost:3000](https://axioscrud-react.netlify.app)`.
+Open the application in your browser at `https://axioscrud-react.netlify.app`.
 
 ## Usage
 
